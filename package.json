@@ -1,0 +1,24 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelMoura29/learning-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelMoura29/learning-typescript/issues"
+  },
+  "homepage": "https://github.com/RafaelMoura29/learning-typescript#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
